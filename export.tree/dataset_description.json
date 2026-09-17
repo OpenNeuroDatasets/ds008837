@@ -1,0 +1,20 @@
+{
+    "Name": "Neural and physiological dynamics before and after unpredictable collision events in virtual reality",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.1.0",
+    "Authors": [
+        "Cedric Cannard",
+        "Demet Yesilbas"
+    ],
+    "ReferencesAndLinks": [
+        "Preregistration: https://osf.io/xuw34"
+    ],
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "EEG-BIDS",
+            "Version": "10.5"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008837.vv1.0.0"
+}
