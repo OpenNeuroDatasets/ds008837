@@ -7,7 +7,8 @@
         "Demet Yesilbas"
     ],
     "ReferencesAndLinks": [
-        "Preregistration: https://osf.io/xuw34"
+        "Preregistration: https://osf.io/xuw34",
+        "Analysis code: https://github.com/amisepa/galea-eeglab-plugin"
     ],
     "License": "CC0",
     "GeneratedBy": [
