@@ -1,0 +1,244 @@
+onset	duration	sample	value	trial_type	HED
+386.544000	0.000000	1.932820e+04	BSL	baseline_block	Event, Experiment-structure, Description/Start of the baseline time-block
+393.552000	0.000000	1.967860e+04	bsl_dev	baseline	Event, Experiment-structure, Description/Baseline driving period with a road deviation
+408.576000	0.000000	2.042980e+04	EXP	block_start	Event, Experiment-structure, Description/Start of the experimental time-block
+408.580000	0.000000	20430	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+415.584000	0.000000	2.078020e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+419.088000	0.000000	2.095540e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+426.096000	0.000000	2.130580e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+429.600000	0.000000	21481	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+436.608000	0.000000	2.183140e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+440.112000	0.000000	2.200660e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+447.168000	0.000000	2.235940e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+453.168000	0.000000	2.265940e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+460.176000	0.000000	2.300980e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+466.176000	0.000000	2.330980e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+473.184000	0.000000	2.366020e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+479.184000	0.000000	2.396020e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+486.192000	0.000000	2.431060e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+489.696000	0.000000	2.448580e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+496.752000	0.000000	2.483860e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+502.752000	0.000000	2.513860e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+509.760000	0.000000	25489	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+515.760000	0.000000	25789	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+522.768000	0.000000	2.613940e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+526.224000	0.000000	2.631220e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+533.280000	0.000000	26665	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+539.280000	0.000000	26965	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+546.288000	0.000000	2.731540e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+552.288000	0.000000	2.761540e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+559.296000	0.000000	2.796580e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+562.800000	0.000000	28141	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+569.856000	0.000000	2.849380e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+575.856000	0.000000	2.879380e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+582.864000	0.000000	2.914420e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+588.864000	0.000000	2.944420e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+595.872000	0.000000	2.979460e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+599.376000	0.000000	2.996980e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+606.384000	0.000000	3.032020e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+612.384000	0.000000	3.062020e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+619.392000	0.000000	3.097060e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+622.896000	0.000000	3.114580e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+629.952000	0.000000	3.149860e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+633.408000	0.000000	3.167140e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+640.464000	0.000000	3.202420e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+643.968000	0.000000	3.219940e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+650.976000	0.000000	3.254980e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+656.976000	0.000000	3.284980e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+663.984000	0.000000	3.320020e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+669.984000	0.000000	3.350020e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+676.992000	0.000000	3.385060e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+682.992000	0.000000	3.415060e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+690.048000	0.000000	3.450340e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+696.048000	0.000000	3.480340e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+703.056000	0.000000	3.515380e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+706.560000	0.000000	35329	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+713.568000	0.000000	3.567940e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+719.568000	0.000000	3.597940e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+726.576000	0.000000	3.632980e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+730.080000	0.000000	36505	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+737.088000	0.000000	3.685540e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+740.592000	0.000000	3.703060e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+747.600000	0.000000	37381	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+753.600000	0.000000	37681	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+760.656000	0.000000	3.803380e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+766.608000	0.000000	3.833140e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+773.616000	0.000000	3.868180e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+777.120000	0.000000	38857	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+784.128000	0.000000	3.920740e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+787.632000	0.000000	3.938260e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+794.640000	0.000000	39733	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+798.144000	0.000000	3.990820e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+805.152000	0.000000	4.025860e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+811.152000	0.000000	4.055860e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+818.160000	0.000000	40909	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+821.664000	0.000000	4.108420e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+828.672000	0.000000	4.143460e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+834.720000	0.000000	41737	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+841.728000	0.000000	4.208740e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+847.728000	0.000000	4.238740e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+854.736000	0.000000	4.273780e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+860.736000	0.000000	4.303780e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+867.744000	0.000000	4.338820e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+871.248000	0.000000	4.356340e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+878.256000	0.000000	4.391380e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+884.256000	0.000000	4.421380e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+891.264000	0.000000	4.456420e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+894.768000	0.000000	4.473940e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+901.776000	0.000000	4.508980e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+907.776000	0.000000	4.538980e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+914.784000	0.000000	4.574020e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+920.832000	0.000000	4.604260e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+927.840000	0.000000	46393	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+931.344000	0.000000	4.656820e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+938.352000	0.000000	4.691860e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+944.352000	0.000000	4.721860e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+951.360000	0.000000	47569	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+954.864000	0.000000	4.774420e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+961.872000	0.000000	4.809460e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+965.376000	0.000000	4.826980e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+972.432000	0.000000	4.862260e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+978.432000	0.000000	4.892260e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+985.440000	0.000000	49273	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+991.440000	0.000000	49573	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+998.448000	0.000000	4.992340e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1001.952000	0.000000	5.009860e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1008.960000	0.000000	50449	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1012.464000	0.000000	5.062420e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1019.472000	0.000000	5.097460e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1025.472000	0.000000	5.127460e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1032.480000	0.000000	51625	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1038.480000	0.000000	51925	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1045.488000	0.000000	5.227540e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1051.536000	0.000000	5.257780e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1058.544000	0.000000	5.292820e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1062.000000	0.000000	53101	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1069.056000	0.000000	5.345380e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1072.560000	0.000000	53629	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1079.568000	0.000000	5.397940e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1083.024000	0.000000	5.415220e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1090.080000	0.000000	54505	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1096.080000	0.000000	54805	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1103.088000	0.000000	5.515540e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1109.088000	0.000000	5.545540e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1116.096000	0.000000	5.580580e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1119.600000	0.000000	55981	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1126.608000	0.000000	5.633140e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1130.112000	0.000000	5.650660e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1137.120000	0.000000	56857	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1140.576000	0.000000	5.702980e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1147.632000	0.000000	5.738260e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1153.632000	0.000000	5.768260e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1160.640000	0.000000	58033	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1164.144000	0.000000	5.820820e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1171.152000	0.000000	5.855860e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1177.152000	0.000000	5.885860e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1184.208000	0.000000	5.921140e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1190.208000	0.000000	5.951140e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1197.216000	0.000000	5.986180e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1200.720000	0.000000	60037	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1207.728000	0.000000	6.038740e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1211.184000	0.000000	6.056020e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1218.240000	0.000000	60913	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1224.240000	0.000000	61213	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1231.248000	0.000000	6.156340e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1234.704000	0.000000	6.173620e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1241.760000	0.000000	62089	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1247.760000	0.000000	62389	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1254.768000	0.000000	6.273940e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1260.768000	0.000000	6.303940e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1267.776000	0.000000	6.338980e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1273.776000	0.000000	6.368980e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1280.784000	0.000000	6.404020e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1284.288000	0.000000	6.421540e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1291.296000	0.000000	6.456580e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1294.752000	0.000000	6.473860e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1301.808000	0.000000	6.509140e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1307.808000	0.000000	6.539140e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1314.816000	0.000000	6.574180e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1320.816000	0.000000	6.604180e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1327.824000	0.000000	6.639220e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1333.872000	0.000000	6.669460e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1340.880000	0.000000	67045	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1346.880000	0.000000	67345	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1353.888000	0.000000	6.769540e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1357.392000	0.000000	6.787060e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1364.448000	0.000000	6.822340e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1370.448000	0.000000	6.852340e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1377.456000	0.000000	6.887380e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1383.456000	0.000000	6.917380e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1390.464000	0.000000	6.952420e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1394.160000	0.000000	69709	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1401.168000	0.000000	7.005940e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1404.672000	0.000000	7.023460e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1411.680000	0.000000	70585	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1415.184000	0.000000	7.076020e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1422.240000	0.000000	71113	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1425.696000	0.000000	7.128580e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1432.704000	0.000000	7.163620e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1436.208000	0.000000	7.181140e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1443.216000	0.000000	7.216180e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1446.720000	0.000000	72337	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1453.728000	0.000000	7.268740e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1457.232000	0.000000	7.286260e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1464.240000	0.000000	73213	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1467.744000	0.000000	7.338820e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1474.752000	0.000000	7.373860e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1478.256000	0.000000	7.391380e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1485.264000	0.000000	7.426420e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1491.264000	0.000000	7.456420e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1498.320000	0.000000	74917	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1501.824000	0.000000	7.509220e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1508.832000	0.000000	7.544260e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1514.832000	0.000000	7.574260e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1521.888000	0.000000	7.609540e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1525.352000	0.000000	7.626860e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1532.400000	0.000000	76621	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1538.400000	0.000000	76921	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1545.408000	0.000000	7.727140e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1551.408000	0.000000	7.757140e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1558.416000	0.000000	7.792180e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1564.416000	0.000000	7.822180e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1571.472000	0.000000	7.857460e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1577.472000	0.000000	7.887460e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1584.480000	0.000000	79225	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1587.984000	0.000000	7.940020e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1594.992000	0.000000	7.975060e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1600.992000	0.000000	8.005060e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1608.000000	0.000000	80401	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1614.000000	0.000000	80701	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1621.008000	0.000000	8.105140e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1624.512000	0.000000	8.122660e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1631.520000	0.000000	81577	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1637.568000	0.000000	8.187940e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1644.576000	0.000000	8.222980e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1648.080000	0.000000	82405	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1655.088000	0.000000	8.275540e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1658.592000	0.000000	8.293060e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1665.600000	0.000000	83281	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1671.600000	0.000000	83581	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1678.608000	0.000000	8.393140e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1682.064000	0.000000	8.410420e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1689.120000	0.000000	84457	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1695.120000	0.000000	84757	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1702.128000	0.000000	8.510740e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1705.632000	0.000000	8.528260e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1712.640000	0.000000	85633	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1716.144000	0.000000	8.580820e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1723.152000	0.000000	8.615860e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1726.656000	0.000000	8.633380e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1733.664000	0.000000	8.668420e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1737.168000	0.000000	8.685940e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1744.176000	0.000000	8.720980e+04	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1747.680000	0.000000	87385	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1754.688000	0.000000	8.773540e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1760.688000	0.000000	8.803540e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1767.744000	0.000000	8.838820e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1773.744000	0.000000	8.868820e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1780.752000	0.000000	8.903860e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1786.752000	0.000000	8.933860e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1793.760000	0.000000	89689	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1797.264000	0.000000	8.986420e+04	no_crash_start	no_collision	Event, Experiment-structure, Description/Start of a no-collision driving-scene trial
+1804.272000	0.000000	9.021460e+04	no_tire_pop	no_collision	Event, Sensory-event, Visual-presentation, Virtual-world, Description/Time-matched control point of a no-collision driving-scene trial
+1810.272000	0.000000	9.051460e+04	crash_start	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
+1817.280000	0.000000	90865	tire_pop	collision	Event, Sensory-event, Environmental-sound, Description/Tire-blowout-sound, Visual-presentation, Virtual-world, Description/Collision-driving-scene
