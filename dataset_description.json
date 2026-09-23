@@ -8,7 +8,8 @@
     ],
     "ReferencesAndLinks": [
         "Preregistration: https://osf.io/xuw34",
-        "Analysis code: https://github.com/amisepa/galea-eeglab-plugin"
+        "Analysis code: https://github.com/amisepa/galea-vr-driving-hazards (GPL-3.0)",
+        "EEGLAB plugin: https://github.com/amisepa/galea-eeglab-plugin (GPL-3.0)"
     ],
     "License": "CC0",
     "GeneratedBy": [
