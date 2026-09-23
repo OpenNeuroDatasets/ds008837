@@ -1,0 +1,13 @@
+name	type	units
+PPG_red	PPG	V
+PPG_IR	PPG	V
+EDA	GSR	V
+ACC_X	MISC	n/a
+ACC_Y	MISC	n/a
+ACC_Z	MISC	n/a
+GYR_X	MISC	n/a
+GYR_Y	MISC	n/a
+GYR_Z	MISC	n/a
+MEG_X	MISC	n/a
+MEG_Y	MISC	n/a
+MEG_Z	MISC	n/a
