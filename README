@@ -1,4 +1,4 @@
-BIDS dataset for Cannard & Yesilbas (2026), "Reactive and predictive processes during unpredictable driving hazards in virtual reality: an exploratory brain and body study with multimodal neurophysiological monitoring".
+BIDS dataset for Cannard & Yesilbas (2026), "Reactive and predictive processes during unpredictable driving collisions in virtual reality: an exploratory immersive study with multimodal neurophysiological monitoring" (manuscript under review; preprint: https://www.biorxiv.org/content/10.64898/2026.09.24.754154).
 
 PREREGISTRATION: https://osf.io/xuw34 ("Neural and physiological dynamics before and after unpredictable collision events in virtual reality using novel wearable sensing"). Analysis code: https://github.com/amisepa/galea-vr-driving-hazards.
 
@@ -8,4 +8,4 @@ RAW layer: sub-XXX/eeg contains the continuous unprocessed recordings, as two EE
 
 sourcedata/: the original unmodified OpenBCI recordings (.txt + Aux .txt and BrainFlow CSVs where present), as produced by the acquisition software.
 
-DERIVATIVE: derivatives/EEGPreprocessed/ holds the epoched, ICA-cleaned 12-channel EEG used for the paper's analyses. Stimulus sequences are in the analysis repository (data/stim_sequences_delivered).
+Preprocessed data are not included: the epoched, ICA-cleaned 12-channel EEG used for the paper's analyses is regenerated from these raw recordings by the preprocessing pipeline in the analysis repository (pipeline/galea_pipeline_v6_EEG.m). Stimulus sequences are in the analysis repository (data/stim_sequences_delivered).
