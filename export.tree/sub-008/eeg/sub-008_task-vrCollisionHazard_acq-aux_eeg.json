@@ -1,0 +1,15 @@
+{
+  "TaskName": "vrCollisionHazard",
+  "TaskDescription": "Peripheral physiological streams of the vrCollisionHazard task at their native sampling rate",
+  "SamplingFrequency": 50,
+  "EEGChannelCount": 0,
+  "MiscChannelCount": 9,
+  "PPGChannelCount": 2,
+  "EDACHannelCount": 1,
+  "Manufacturer": "Galea (OpenBCI GaleaBeta board), Varjo Aero HMD",
+  "ManufacturersModelName": "Galea Beta",
+  "InstitutionName": "Institute of Noetic Sciences",
+  "InstitutionAddress": "Petaluma, CA, USA",
+  "PowerLineFrequency": 50,
+  "EEGReference": "n/a (no EEG channels in this recording)"
+}
